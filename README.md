@@ -42,6 +42,12 @@ Research suggests that when cognitive friction exceeds a specific threshold (mea
 
 ---
 
+### 📚 Citation
+If you use this toolkit in a clinical or research setting, please cite:
+- Haskin, J. K. (2026). *You Are Here: Keep Existing*. [doi:10.17605/OSF.IO/9XV7T](https://doi.org/10.17605/OSF.IO/9XV7T)
+
+---
+
 ### 🔗 DodecaGone Ecosystem
 - **Official Hub:** [DodecaGone Systems](https://github.com/DodecaGoneSystems)
 - **Daily Maintenance:** [I Need Maintenance](https://github.com/haskinj/i-need-maintenance)
